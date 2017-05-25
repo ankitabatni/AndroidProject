@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MYDB</string>
+    <string name="add_emp">ADD </string>
+    <string name="delete_emp">DELETE </string>
+</resources>
